@@ -10,3 +10,5 @@ Controls:
 - Shoot: Press the **BOOT** button on the board
 
 Features a live HUD with health, ammo, kills, and a mini-map radar (still a bit of a work in progress like the entire project...)
+
+<img width="2208" height="1242" alt="IMG_9113" src="https://github.com/user-attachments/assets/4a6b2ddc-8f73-4201-956d-6c37d92de08d" />
